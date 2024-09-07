@@ -7,4 +7,4 @@
 >  I made an account in github platform. and i have created a repository and uploaded the assignment.
 
 
-[DATA SCIENCE](https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg)
+[Profile picture]((blob:https://web.whatsapp.com/f4feab34-b55e-4dc7-ab05-8082e1b57dfc)
