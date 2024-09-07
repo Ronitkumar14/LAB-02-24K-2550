@@ -1,5 +1,6 @@
 # INTRODUCTION 
-> My name is Ronit Kumar.
+> Hi i am Ronit Kumar
+> i belong to daharki city that is situated in Ghotki district.
 > i completed my HSC from BISE-sukkur.
 > i am in the  Department of Data science.
 >  here i made an assignment of pseudocodes and Algorithms.
